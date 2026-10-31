@@ -1,6 +1,6 @@
-<!-- ANIMATED BANNER -->
+<!-- BATMAN CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/C7RCCFdaixA3m/giphy.gif" width="100%" alt="Animated coding banner"/>
+  <img src="./assets/batman-coding.gif" width="100%" alt="Batman coding inside the Batcave" />
 </p>
 
 <h1 align="center">🦇 RATUL.EXE</h1>
@@ -13,10 +13,13 @@
 
 <p align="center">
   <a href="https://ratul-az.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
   <a href="https://github.com/ratul-az">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mdzihadulahsanratul@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-FFD500?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
@@ -42,13 +45,13 @@ I'm passionate about software development, artificial intelligence, machine lear
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 </p>
 
 ### AI / Machine Learning / Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
 **Tools & Technologies:** Pandas · NumPy · XGBoost · Transformers · LLMs · RAG · Vector Databases · NLP · Computer Vision · SQL
@@ -56,7 +59,7 @@ I'm passionate about software development, artificial intelligence, machine lear
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,git,github,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,git,github,vscode,figma" />
 </p>
 
 ---
@@ -102,24 +105,33 @@ I'm passionate about software development, artificial intelligence, machine lear
 ## 📈 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratul-az&show_icons=true&theme=dark&hide_border=true&title_color=FFD500&icon_color=FFD500&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-az&layout=compact&theme=dark&hide_border=true&title_color=FFD500&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratul-az&show_icons=true&theme=dark&hide_border=true&title_color=FFD500&icon_color=FFD500&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-az&layout=compact&theme=dark&hide_border=true&title_color=FFD500&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ratul-az&theme=dark&hide_border=true&background=0D1117&ring=FFD500&fire=FFD500&currStreakLabel=FFD500"/>
+  <img src="https://streak-stats.demolab.com?user=ratul-az&theme=dark&hide_border=true&background=0D1117&ring=FFD500&fire=FFD500&currStreakLabel=FFD500" />
 </p>
 
 ---
 
 ## 🤝 CONNECT WITH ME
 
-<p>
+<p align="center">
+  <a href="mailto:mdzihadulahsanratul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-FFD500?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
   <a href="https://ratul-az.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
   <a href="https://github.com/ratul-az">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:mdzihadulahsanratul@gmail.com">
+    <b>mdzihadulahsanratul@gmail.com</b>
   </a>
 </p>
 
@@ -127,6 +139,6 @@ I'm passionate about software development, artificial intelligence, machine lear
 
 <p align="center">
   <b>⚡ THINK. BUILD. DEPLOY. REPEAT.</b>
-  <br/>
+  <br />
   <i>Always learning. Always building.</i>
 </p>
