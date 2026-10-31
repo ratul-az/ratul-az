@@ -1,4 +1,8 @@
-<!-- BATMAN CODING GIF -->
+<p align="center">
+  <img src="./assets/batman-coding.gif"
+       width="100%"
+       alt="Batman coding in the Batcave"/>
+</p><!-- BATMAN CODING GIF -->
 <p align="center">
   <img src="./assets/batman-coding.gif" width="100%" alt="Batman coding inside the Batcave" />
 </p>
