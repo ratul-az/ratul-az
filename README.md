@@ -1,4 +1,9 @@
-# 🦇 RATUL.EXE
+<!-- ANIMATED BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/C7RCCFdaixA3m/giphy.gif" width="100%" alt="Animated coding banner"/>
+</p>
+
+<h1 align="center">🦇 RATUL.EXE</h1>
 
 <h3 align="center">FULL-STACK DEVELOPER | AI & MACHINE LEARNING</h3>
 
@@ -8,10 +13,10 @@
 
 <p align="center">
   <a href="https://ratul-az.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFD500?style=for-the-badge&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
   <a href="https://github.com/ratul-az">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -26,7 +31,7 @@ I'm passionate about software development, artificial intelligence, machine lear
 - 🎓 Data Science & Artificial Intelligence student at UMK
 - 🤖 Interested in AI, Machine Learning, Deep Learning, LLMs and RAG
 - 💻 Building full-stack applications and intelligent systems
-- 🚀 Focused on turning ideas into practical, scalable solutions
+- 🚀 Focused on turning ideas into practical solutions
 - 🎬 Interested in filmmaking, photography and creative technology
 - 🎮 Gamer and technology enthusiast
 
@@ -35,20 +40,23 @@ I'm passionate about software development, artificial intelligence, machine lear
 ## ⚡ TECH STACK
 
 ### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
 </p>
 
 ### AI / Machine Learning / Data Science
+
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
 </p>
 
-**Tools & Technologies:** Pandas · NumPy · XGBoost · Transformers · LLMs · RAG · Vector Databases · NLP · Computer Vision
+**Tools & Technologies:** Pandas · NumPy · XGBoost · Transformers · LLMs · RAG · Vector Databases · NLP · Computer Vision · SQL
 
-### Development & Tools
+### Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,git,github,vscode,figma"/>
 </p>
 
 ---
@@ -94,12 +102,12 @@ I'm passionate about software development, artificial intelligence, machine lear
 ## 📈 GITHUB STATISTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratul-az&show_icons=true&theme=dark&hide_border=true&title_color=FFD500&icon_color=FFD500&text_color=FFFFFF&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-az&layout=compact&theme=dark&hide_border=true&title_color=FFD500&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratul-az&show_icons=true&theme=dark&hide_border=true&title_color=FFD500&icon_color=FFD500&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-az&layout=compact&theme=dark&hide_border=true&title_color=FFD500&text_color=FFFFFF&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ratul-az&theme=dark&hide_border=true&background=0D1117&ring=FFD500&fire=FFD500&currStreakLabel=FFD500" />
+  <img src="https://streak-stats.demolab.com?user=ratul-az&theme=dark&hide_border=true&background=0D1117&ring=FFD500&fire=FFD500&currStreakLabel=FFD500"/>
 </p>
 
 ---
@@ -107,14 +115,11 @@ I'm passionate about software development, artificial intelligence, machine lear
 ## 🤝 CONNECT WITH ME
 
 <p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://ratul-az.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
   <a href="https://github.com/ratul-az">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
